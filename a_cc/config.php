@@ -1,5 +1,5 @@
 <?php
-$db_host = "endpoint-rds-anda.rds.amazonaws.com";
+$db_host = "database-1.cta20a2sck3e.us-east-1.rds.amazonaws.com";
 $db_username = "admin";
 $db_password = "password-anda";
 $db_name = "kasir_pakaian";
